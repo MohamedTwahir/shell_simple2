@@ -1,4 +1,4 @@
-##Simple shell in C##
+#Simple shell in C
 We will be creating a simple shell as part of our Alx journey in learning software Engineering.
 #List of allowed functions and system calls in the project include:
  * access (man 2 access)
