@@ -1,6 +1,7 @@
-#Simple shell in C
+# Simple shell in C
+
 We will be creating a simple shell as part of our Alx journey in learning software Engineering.
-#List of allowed functions and system calls in the project include:
+# List of allowed functions and system calls in the project include:
  * access (man 2 access)
  * chdir (man 2 chdir)
  * close (man 2 close)
@@ -32,7 +33,7 @@ We will be creating a simple shell as part of our Alx journey in learning softwa
  * wait3 (man 2 wait3)
  * wait4 (man 2 wait4)
  * write (man 2 write)
-#From the above functions we are supposed to create a simple shell that can:
+# From the above functions we are supposed to create a simple shell that can:
 * Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 * The prompt is displayed again each time a command has been executed.
 * The command lines are simple, no semicolons, no pipes, no redirections or any other advanced features.
